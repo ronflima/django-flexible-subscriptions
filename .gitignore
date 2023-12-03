@@ -33,3 +33,6 @@ sandbox/*.sqlite3
 
 # Pyenv configurations
 .python-version
+
+# VSCode local configurations
+.vscode 
